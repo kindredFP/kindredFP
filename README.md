@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="JPG" width="100%" src="LucianFPcoder.jpg" />
+</p>
 
 ## My GitHub Stats
 <div>
@@ -31,3 +34,5 @@ Here are some ideas to get you started:
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kindredfp&show_icons=true&locale=en&theme=radical" alt="kindredfp" />
 </div>
 <br>
+
+
