@@ -1,4 +1,4 @@
-### Hello there and Welcome to my GitHub Page 👋
+## Hello there I'm Francis 👋
 
 <div align="center">
 <a href="mailto:fpalattao@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kindredfp)
+
+## Thank you for visiting! 🙌
 
 
 
