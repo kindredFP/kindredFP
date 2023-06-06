@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there and Welcome to my GitHub Page 👋
 
 <div align="center">
 <a href="mailto:fpalattao@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -7,8 +7,6 @@
 <a href="https://www.linkedin.com/in/francis-palattao-a349542/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/fpalattao/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </div>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kindredfp)
 
 <!--
 **kindredFP/kindredFP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,5 +32,8 @@ Here are some ideas to get you started:
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kindredfp&show_icons=true&locale=en&theme=radical" alt="kindredfp" />
 </div>
 <br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kindredfp)
+
 
 
