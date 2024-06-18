@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="mailto:fpalattao@gmail.com"><img src="https://img.shields.io/badge/-Mail%20Me-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
-<a href="https://francis.palattao.net/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="http://francis.palattao.net/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
 <a href="https://facebook.com/francis.crossfit"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/francis-palattao-a349542/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/fpalattao/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
